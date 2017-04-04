@@ -12,8 +12,8 @@
       <url>http://localhost:8081/repository/test/</url>
    </snapshotRepository>
 </distributionManagement>
-<dependencies>
 	
+<dependencies>
 		<!-- tag::joda[] -->
 		<dependency>
 			<groupId>joda-time</groupId>
